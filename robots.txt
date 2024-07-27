@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://pitseddie.github.io/sitemap/sitemap.txt
